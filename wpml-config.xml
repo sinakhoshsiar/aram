@@ -1,0 +1,12 @@
+<wpml-config>
+	<custom-types>
+		<custom-type translate="1">service</custom-type>
+		<custom-type translate="1">case_study</custom-type>
+		<custom-type translate="1">testimonial</custom-type>
+	</custom-types>
+	<taxonomies>
+		<taxonomy translate="1">service_category</taxonomy>
+		<taxonomy translate="1">case_study_category</taxonomy>
+		<taxonomy translate="1">testimonial_category</taxonomy>
+	</taxonomies>
+</wpml-config>
